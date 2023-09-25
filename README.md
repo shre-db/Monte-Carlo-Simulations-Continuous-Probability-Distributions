@@ -6,3 +6,5 @@ This repository contains Monte Carlo simulations of most common continuous proba
 2. Uniform Distribution (Rectangular Distribution)
 3. Exponential Distribution
 4. Log-Normal Distribution
+5. Chi-Squared Distribution
+6. Beta Distribution
