@@ -8,3 +8,5 @@ This repository contains Monte Carlo simulations of most common continuous proba
 4. Log-Normal Distribution
 5. Chi-Squared Distribution
 6. Beta Distribution
+7. Gamma Distribution
+8. Weibull Distribution
